@@ -16,7 +16,9 @@ namespace GB_language_basics_Nosov
             var growth = Console.ReadLine();
             Console.Write("Введите вес: ");
             var mass = Console.ReadLine();
-            Console.WriteLine(name + " " + last_name + "\nВозраст: " + age + "\nРост: " + "\nРост: " + age + "\nВес: " + mass);
+            Console.WriteLine("1. " + name + " " + last_name + "\nВозраст: " + age + "\nРост: " + growth + "\nВес: " + mass + "\n\n");
+            Console.WriteLine($"2. {name} {last_name}\nВозраст: {age}\nРост: {growth}\nВес: {mass}\n\n");
+            Console.WriteLine(String.Format("3. {0} {1} \nВозраст: {2}\nРост: {3}\nВес: {4}\n\n", name, last_name, age, growth, mass));
         }
     }
 }
