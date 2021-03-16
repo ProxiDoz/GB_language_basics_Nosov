@@ -11,3 +11,11 @@ C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basi
 C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.dll
 C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.pdb
 C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.genruntimeconfig.cache
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.csproj.CopyComplete
