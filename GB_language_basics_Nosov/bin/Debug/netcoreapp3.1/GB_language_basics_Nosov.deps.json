@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GB_language_basics_Nosov/1.0.0": {
+        "runtime": {
+          "GB_language_basics_Nosov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GB_language_basics_Nosov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

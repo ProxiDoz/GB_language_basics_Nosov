@@ -1,0 +1,13 @@
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.exe
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.deps.json
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.runtimeconfig.json
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.runtimeconfig.dev.json
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\bin\Debug\netcoreapp3.1\GB_language_basics_Nosov.pdb
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.csprojAssemblyReference.cache
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.AssemblyInfoInputs.cache
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.AssemblyInfo.cs
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.csproj.CoreCompileInputs.cache
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.dll
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.pdb
+C:\Users\AANosov\Documents\GB\projects\GB_language_basics_Nosov\GB_language_basics_Nosov\GB_language_basics_Nosov\obj\Debug\netcoreapp3.1\GB_language_basics_Nosov.genruntimeconfig.cache
